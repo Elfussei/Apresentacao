@@ -2,7 +2,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/assets/IMG_0137.jpg)
+![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
 
 ## Ferramentas utilizadas:
 
@@ -14,8 +14,8 @@
 
 ## Feito por:
 
-### Guilherme Santos
+### Joana Santos
 
-### Linkedin: https://www.linkedin.com/in/guilherme-santos-695b90133/
+### Linkedin: https://www.linkedin.com/school/aluracursos/
 
 ```
