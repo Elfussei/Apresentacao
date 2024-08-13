@@ -14,8 +14,7 @@
 
 ## Feito por:
 
-### Joana Santos
+### Guilherme Santos
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
 
 ```
